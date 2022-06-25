@@ -25,7 +25,7 @@
     <td colspan="2">
     <input type="submit" name="submit" value="insert">
     <!-- <input type="submit" name="submit2" value="delete"> -->
-    <input type="submit" name="submit3" value="update">
+    <input type="submit" name="submit3" value="Edit">
     <input type="submit" name="submit4" value="display">
     <!-- <input type="submit" name="submit5" value="search"> -->
     </td>    
